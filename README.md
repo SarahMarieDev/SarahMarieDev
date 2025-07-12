@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧑‍💻 Cybersecurity and software development explorer  
+- 🧑‍💻 Cybersecurity specialist and software developer
 - 🛡️ Passionate about ethical hacking and secure coding  
 - 🧰 Working with the Microsoft stack and modern web technologies  
 - 📚 Lifelong learner, CTF player, and bug bounty hunter  
