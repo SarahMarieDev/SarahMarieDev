@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🧑‍💻 Cybersecurity specialist and software developer
 - 🛡️ Passionate about ethical hacking and secure coding  
 - 🧰 Working with the Microsoft stack and modern web technologies  
