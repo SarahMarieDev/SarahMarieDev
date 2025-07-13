@@ -53,6 +53,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-3F4C6F?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge)
+![GoPhish](https://img.shields.io/badge/GoPhish-1D3557?style=for-the-badge)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
