@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sarah</h1>
-<h3 align="center">Cybersecurity enthusiast | Developer | Ethical Hacker in training</h3>
+<h3 align="center">Cybersecurity Professional | Developer | Ethical Hacker</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
