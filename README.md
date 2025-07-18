@@ -75,7 +75,7 @@
 
 ### 🏅 TryHackMe Badge
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SarahMarieDev.png" alt="Your Image Badge" />
+  
 </p>
 
 ---
