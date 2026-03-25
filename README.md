@@ -14,6 +14,14 @@
 - 📚 Lifelong learner, CTF player, and bug bounty hunter  
 
 ---
+
+### 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/529736403530285076)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarahschlueter1)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sarahmariedev@proton.me)
+
+---
+
 ### 🛠️ Tech Stack
 
 #### Languages
@@ -54,16 +62,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarahMarieDev&theme=radical" alt="streak"/>
 </p>
 
----
 
-### 🏅 TryHackMe Badge
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/SarahMarieDev.png" alt="Your Image Badge" />
-</p>
 
----
-
-### 🌐 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/529736403530285076)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarahschlueter1)
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sarahmariedev@proton.me)
